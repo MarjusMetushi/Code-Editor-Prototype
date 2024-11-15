@@ -1,7 +1,7 @@
-### This is a Java-based GUI code editor prototype!
-### It supports popular programming languages, offers syntax highlighting, auto-closing brackets, and many essential features for a worthy coding experience.
+## This is a Java-based GUI code editor prototype!
+## It supports popular programming languages, offers syntax highlighting, auto-closing brackets, and many essential features for a worthy coding experience.
 
-# In this project I used RSyntaxTextArea (https://github.com/bobbylight/RSyntaxTextArea.git) for the text area dedicated to writing text.
+### In this project I used RSyntaxTextArea (https://github.com/bobbylight/RSyntaxTextArea.git) for the text area dedicated to writing text.
 
 # Core Features
   - Support for JavaScript, Java, C++, C, Python, and text editing.
@@ -21,22 +21,22 @@
   - Auto-closing brackets and basic editor controls (Undo, Redo, Cut, Copy, Paste).
   - Help and About sections for assistance and documentation.
 
-### Requirements
+# Requirements
 - Java 8 or later
 - RSyntaxTextArea (https://github.com/bobbylight/RSyntaxTextArea.git) library (bundled in this project as a JAR file)
 
-### Installation
+# Installation
 - Clone the repository https://github.com/MarjusMetushi/Code-Editor-Prototype.git
 - cd Code-Editor_prototype
 - javac -cp "path/.../RSyntaxTextArea.jar" -d bin src/**/*.java
 - java -cp "bin:path/.../RSyntaxTextArea.jar" app
 
-### Usage
+# Usage
 - Open a file from the supported language with one of the following extensions (.java / .py / .cpp / .c / .js)
 - Click the run button or use the command line.Navigate to the directory containing your project files using the cd command followed by the path to the directory.
 
-### Contributions are welcome!
-# Follow these steps if you are interested in contributing:
+# Contributions are welcome!
+## Follow these steps if you are interested in contributing:
 - Fork the repository
 - Clone your fork
 - cd path/to/fork
