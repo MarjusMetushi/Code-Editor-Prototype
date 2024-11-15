@@ -1,4 +1,4 @@
-### This is a Java-based GUI code editor prototype designed for developers and learners.
+### This is a Java-based GUI code editor prototype!
 ### It supports popular programming languages, offers syntax highlighting, auto-closing brackets, 
 ### and many essential features for a seamless coding experience.
 
