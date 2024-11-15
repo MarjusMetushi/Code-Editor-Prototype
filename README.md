@@ -1,6 +1,5 @@
 ### This is a Java-based GUI code editor prototype!
-### It supports popular programming languages, offers syntax highlighting, auto-closing brackets, 
-### and many essential features for a seamless coding experience.
+### It supports popular programming languages, offers syntax highlighting, auto-closing brackets, and many essential features for a worthy coding experience.
 
 ## In this project I used RSyntaxTextArea (https://github.com/bobbylight/RSyntaxTextArea.git) for the text area dedicated to writing text.
 
